@@ -28,7 +28,7 @@
 1. [线程池，这一篇或许就够了](https://segmentfault.com/a/1190000009098623?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly "Title")
 1. [深入分析 Java 方法反射的实现原理](https://mp.weixin.qq.com/s/GbgtR5ienKdiZ1WTSysA6w "Title")
 1. [Final of Java，这一篇差不多了](https://juejin.im/entry/58c4811161ff4b005d94fed2 "Title")
-1. [Java基础（定期更新中）](https://github.com/jeokwok/demo "Title")
+1. [Java基础（定期更新中）](https://github.com/jeokwok/test "Title")
 
 
 ### 算法以及其它
